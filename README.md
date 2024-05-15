@@ -8,6 +8,7 @@ To get the data for Figure 1a, you need to use the MB_Bayesian_Method notebook s
 ## Application to Graph Construction Using q-NN
 
 To reproduce Figures 2, 3 and the numbers of Table 1, you can call ```reproduce_results()``` in SSL.py and TSC.py. 
+Note that you need to download the HAR dataset first.
 
 ## Computing the Metric Backbone
 
