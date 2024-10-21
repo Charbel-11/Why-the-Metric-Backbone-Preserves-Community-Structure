@@ -1,4 +1,5 @@
 # Why the Metric Backbone Preserves Community Structure
+This is the code for the paper [Why the Metric Backbone Preserves Community Structure](https://arxiv.org/abs/2406.03852).
 
 ## Experimental Results
 
